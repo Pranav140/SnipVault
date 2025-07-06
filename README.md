@@ -1,6 +1,6 @@
-# Snippet Manager
+# SnipVault
 
-Snippet Manager is a full-stack web application designed to help developers save, organize, and manage their code snippets efficiently. Built with the MERN stack (MongoDB, Express.js, React, Node.js) and Vite for a fast development experience, it provides a secure and intuitive interface for all your code-saving needs.
+SnipVault is a full-stack web application designed to help developers save, organize, and manage their code snippets efficiently. Built with the MERN stack (MongoDB, Express.js, React, Node.js) and Vite for a fast development experience, it provides a secure and intuitive interface for all your code-saving needs.
 
 ## Features
 
